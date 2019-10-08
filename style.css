@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #333;
+}
+header h1 {
+    color: yellow;
+    margin: 2vh 0;
+}
+menu {
+    background-color: greenyellow;
+}
+a.menu {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    width:30vw;
+    color: black;
+    padding: 1vh 0;
+    font-weight: 700;
+}
+a.menu:hover {
+    background-color: darkgreen;
+    color: yellow;
+}
