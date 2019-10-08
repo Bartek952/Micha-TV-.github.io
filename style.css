@@ -26,3 +26,14 @@ a.menu:hover {
     background-color: darkgreen;
     color: yellow;
 }
+article {
+    color:white;
+    border: 2px solid black;
+    margin: 2vh 0;
+    height: 40vh;
+}
+article h1 {
+    margin: 1vh 0 4vh 2vh;
+    padding: 1vh 0;
+    border-bottom: 2px solid greenyellow;
+}
