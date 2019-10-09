@@ -39,3 +39,6 @@ article h1 {
     padding: 1vh 0;
     border-bottom: 2px solid blue;
 }
+h2 {
+    color: aqua;
+}
