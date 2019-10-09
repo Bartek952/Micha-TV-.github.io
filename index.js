@@ -14,7 +14,7 @@ aboutMe.addEventListener('click', function(){
 })
 w.addEventListener('click', function(){
     articleH1.textContent = 'Gdzie nagrywam?';
-    articleContent.textContent = 'Nagrywam na YT (https://www.youtube.com/channel/UCvWiFXNYoeMUibdIGiNqBIQ?disable_polymer=true)';
+    articleContent.textContent = 'Nagrywam na YT (Michał TV)';
 })
 i.addEventListener('click', function(){
     articleH1.textContent = 'Czym się interesuję';
