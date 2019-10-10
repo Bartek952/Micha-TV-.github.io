@@ -10,7 +10,7 @@ const articleContent = document.querySelector('article p');
 
 aboutMe.addEventListener('click', function(){
     articleH1.textContent = 'O mnie';
-    articleContent.textContent = 'Nazywam się Michał';
+    articleContent.textContent = 'Nazywam się Michał, mam 5 lat i zbieram słodziaki!';
 })
 w.addEventListener('click', function(){
     articleH1.textContent = 'Gdzie nagrywam?';
@@ -18,5 +18,5 @@ w.addEventListener('click', function(){
 })
 i.addEventListener('click', function(){
     articleH1.textContent = 'Czym się interesuję';
-    articleContent.textContent = 'Interesuję się słodziakami, lokomotywami, duplo i lego';
+    articleContent.textContent = 'Interesuję się słodziakami, lokomotywami,superzings, treasure X, duplo i lego';
 })
