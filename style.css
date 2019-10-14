@@ -47,3 +47,7 @@ article h1 {
 h2 {
     color: aqua;
 }
+.yt {
+    display: inline-block;
+    margin: 4vh 0;
+}
